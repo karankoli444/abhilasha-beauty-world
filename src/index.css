@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap');
+
+html{
+ scroll-behavior:smooth;
+}
+
+body{
+ font-family:'Poppins',sans-serif;
+ overflow-x:hidden;
+}
+
+.container-custom{
+ @apply max-w-7xl mx-auto px-4 md:px-8;
+}
