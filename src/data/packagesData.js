@@ -11,7 +11,7 @@ import hd2Bride2 from "../assets/packages/hd-two-looks/Hd2bride2.jpeg";
 // HD 3 LOOKS
 import hd3Mehendi from "../assets/packages/hd-three-looks/Hd3mehandi.jpeg";
 import hd3Haldi from "../assets/packages/hd-three-looks/Hd3haldi1.jpeg";
-import hd3Bride2 from "../assets/packages/hd-three-looks/Hd3bride2.jpeg";
+import hd3Bride2 from "../assets/packages/hd-three-looks/Hd3bride2.jpg";
 
 //Premium HD Package
 import Hdprebride from "../assets/packages/hd-premium/Hdprebride.jpeg";
@@ -46,7 +46,7 @@ import Engagementlook1 from "../assets/packages/Engagements/Engagementlook1.jpg"
 import Engagementlook2 from "../assets/packages/Engagements/Engagementlook2.jpg";
 import Engagementlook3 from "../assets/packages/Engagements/Engagementlook3.jpg";
 import Engagementlook4 from "../assets/packages/Engagements/Engagementlook4.jpg";
-import Engagementlook5 from "../assets/packages/Engagements/Engagementlook5.jpeg";
+import Engagementlook5 from "../assets/packages/Engagements/Engagementlook5.jpg";
 import Engagementlook6 from "../assets/packages/Engagements/Engagementlook6.jpeg";
 
 // Baby Shower Package
