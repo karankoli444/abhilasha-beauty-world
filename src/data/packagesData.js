@@ -42,12 +42,12 @@ import Airbrushprevaidik from "../assets/packages/airbrush-premium/Airbrushpreva
 import Airbrushprevaidikfull from "../assets/packages/airbrush-premium/Airbrushprevaidikfull.jpg";
 
 // Engagement Package
-import Engagementlook1 from "../assets/packages/Engagements/Engagelook1.jpg";
-import Engagementlook2 from "../assets/packages/Engagements/Engagelook2.jpg";
-import Engagementlook3 from "../assets/packages/Engagements/Engagelook3.jpg";
-import Engagementlook4 from "../assets/packages/Engagements/Engagelook4.jpg";
-import Engagementlook5 from "../assets/packages/Engagements/Engagelook5.jpeg";
-import Engagementlook6 from "../assets/packages/Engagements/Engagelook6.jpeg";
+import Engagementlook1 from "../assets/packages/Engagements/Engagementlook1.jpg";
+import Engagementlook2 from "../assets/packages/Engagements/Engagementlook2.jpg";
+import Engagementlook3 from "../assets/packages/Engagements/Engagementlook3.jpg";
+import Engagementlook4 from "../assets/packages/Engagements/Engagementlook4.jpg";
+import Engagementlook5 from "../assets/packages/Engagements/Engagementlook5.jpeg";
+import Engagementlook6 from "../assets/packages/Engagements/Engagementlook6.jpeg";
 
 // Baby Shower Package
 import babyshower1 from "../assets/packages/BabyShower/babyshower1.jpg";
