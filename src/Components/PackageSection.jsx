@@ -149,7 +149,7 @@ const PackageSection = () => {
                   loading="lazy"
                   initial={{ opacity: 0 }}
                   animate={{ opacity: 1 }}
-                  className="w-full h-[400px] md:h-[550px] lg:h-[650px]  object-cover object-top rounded-4xl"
+                  className="w-full aspect-[3/4]   object-cover object-top rounded-4xl"
                 />
 
                 <div className="flex gap-3 mt-4 overflow-x-auto">
